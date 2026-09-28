@@ -1,0 +1,4 @@
+subreddit,posts,posts_with_any_token,posts_with_valid_ticker,posts_with_cashtag,cashtag_posts_retained,token_retention,cashtag_retention
+stocks,66952,34522,21447,4897,3440,0.6213,0.7025
+pennystocks,49141,34585,13353,12775,3527,0.3861,0.2761
+investing,35848,13892,6459,1659,983,0.4649,0.5925

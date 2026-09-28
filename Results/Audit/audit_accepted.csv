@@ -1,0 +1,750 @@
+symbol,model_rows,source_posts,is_etf,name
+GME,2140,2149,False,GameStop Corporation Common Stock
+AMC,1101,1110,False,"AMC Entertainment Holdings, Inc. Class A Common Stock"
+AAPL,800,809,False,Apple Inc. - Common Stock
+TSLA,730,739,False,"Tesla, Inc.  - Common Stock"
+SPY,708,717,True,State Street SPDR S&P 500 ETF Trust
+AMD,592,601,False,"Advanced Micro Devices, Inc. - Common Stock"
+MSFT,585,594,False,Microsoft Corporation - Common Stock
+QQQ,534,543,True,"Invesco QQQ Trust, Series 1"
+NIO,530,539,False,"NIO Inc. American depositary shares, each  representing one Class A ordinary share"
+VTI,474,483,True,Vanguard Morningstar Total Stock Market ETF
+BB,456,465,False,BlackBerry Limited Common Stock
+PLTR,456,465,False,Palantir Technologies Inc. - Class A Common Stock
+AMZN,453,462,False,"Amazon.com, Inc. - Common Stock"
+VOO,436,445,True,Vanguard S&P 500 ETF
+NVDA,425,434,False,NVIDIA Corporation - Common Stock
+BABA,359,368,False,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share
+ARKK,338,347,True,ARK Innovation ETF
+ICLN,310,319,True,iShares Global Clean Energy ETF
+FB,296,305,False,ProShares S&P 500 Dynamic Buffer ETF
+SQ,266,275,False,
+NOK,260,269,False,Nokia Corporation Sponsored American Depositary Shares
+ARKG,216,225,True,ARK Genomic Revolution ETF
+DIS,213,222,False,Walt Disney Company (The) Common Stock
+DKNG,209,218,False,DraftKings Inc. - Class A Common Stock
+GM,207,216,False,General Motors Company Common Stock
+PLUG,191,200,False,"Plug Power, Inc. - Common Stock"
+SPCE,180,189,False,"Virgin Galactic Holdings, Inc. Common Stock"
+GOOGL,179,188,False,Alphabet Inc. - Class A Common Stock
+PYPL,171,180,False,"PayPal Holdings, Inc. - Common Stock"
+TLRY,165,174,False,"Tilray Brands, Inc. - Common Stock"
+NET,165,174,False,"Cloudflare, Inc. Class A Common Stock"
+DIA,164,173,True,State Street SPDR Dow Jones Industrial Average ETF Trust
+GOOG,160,169,False,Alphabet Inc. - Class C Capital Stock
+TSM,156,165,False,Taiwan Semiconductor Manufacturing Company Ltd.
+CRSR,154,163,False,"Corsair Gaming, Inc. - Common Stock"
+JPM,147,156,False,JP Morgan Chase & Co. Common Stock
+GE,146,155,False,GE Aerospace Common Stock
+SNDL,141,150,False,SNDL Inc. - Common Shares
+APHA,135,144,False,
+MRNA,130,139,False,"Moderna, Inc. - Common Stock"
+MA,126,135,False,Mastercard Incorporated Common Stock
+INTC,125,134,False,Intel Corporation - Common Stock
+WMT,118,127,False,Walmart Inc. - Common Stock
+COIN,117,126,False,"Coinbase Global, Inc. - Class A Common Stock"
+PFE,113,122,False,"Pfizer, Inc. Common Stock"
+JNJ,113,122,False,Johnson & Johnson Common Stock
+NFLX,113,122,False,"Netflix, Inc. - Common Stock"
+RKT,113,122,False,"Rocket Companies, Inc. Class A Common Stock"
+SE,110,119,False,"Sea Limited American Depositary Shares, each representing one Class A Ordinary Share"
+YOU,109,118,False,"Clear Secure, Inc. Class A Common Stock"
+RBLX,107,116,False,Roblox Corporation Class A Common Stock
+ARKF,106,115,True,ARK Blockchain & Fintech Innovation ETF
+CRM,105,114,False,"Salesforce, Inc. Common Stock"
+CCL,103,112,False,Carnival Corporation Ltd. Common Shares
+TQQQ,102,111,True,ProShares UltraPro QQQ
+VXUS,100,109,True,Vanguard Total International Stock ETF
+PTON,98,107,False,"Peloton Interactive, Inc. - Common Stock"
+NAKD,97,106,False,
+CLOV,95,104,False,"Clover Health Investments, Corp.  - Class A Common stock"
+JD,95,104,False,"JD.com, Inc. - American Depositary Shares"
+BA,94,103,False,Boeing Company (The) Common Stock
+TWTR,91,100,False,
+IWM,91,100,True,iShares Russell 2000 Index Fund
+ROE,90,99,True,Astoria US Equal Weight Quality Kings ETF
+HELP,88,97,False,Cybin Inc. - Common Stock
+TDOC,85,94,False,"Teladoc Health, Inc. Common Stock"
+CRWD,85,94,False,"CrowdStrike Holdings, Inc. - Class A Common Stock"
+COST,84,93,False,Costco Wholesale Corporation - Common Stock
+IBM,83,92,False,International Business Machines Corporation Common Stock
+SOFI,82,91,False,"SoFi Technologies, Inc.  - Common Stock"
+PENN,81,90,False,"PENN Entertainment, Inc. - Common Stock"
+TGT,79,88,False,Target Corporation Common Stock
+KO,79,88,False,Coca-Cola Company (The) Common Stock
+UBS,78,87,False,UBS Group AG Registered Ordinary Shares
+AAL,78,87,False,"American Airlines Group, Inc. - Common Stock"
+ENPH,77,86,False,"Enphase Energy, Inc. - Common Stock"
+CVS,76,85,False,CVS Health Corporation Common Stock
+PINS,76,85,False,"Pinterest, Inc. Class A Common Stock"
+ABNB,75,84,False,"Airbnb, Inc. - Class A Common Stock"
+ROKU,75,84,False,"Roku, Inc. - Class A Common Stock"
+BP,74,83,False,BP p.l.c. Common Stock
+SHOP,73,82,False,Shopify Inc. - Class A Subordinate Voting Shares
+HD,73,82,False,"Home Depot, Inc. (The) Common Stock"
+PC,72,81,False,Premium Catering (Holdings) Limited - Ordinary Shares
+BAC,71,80,False,Bank of America Corporation Common Stock
+FUBO,71,80,False,FuboTV Inc. Class A Common Stock
+SNAP,71,80,False,Snap Inc. Class A Common Stock
+GS,70,79,False,"Goldman Sachs Group, Inc. (The) Common Stock"
+RIDE,69,78,False,
+ARKW,69,78,True,ARK Next Generation Internet ETF
+ETSY,69,78,False,"Etsy, Inc. Common Stock"
+CCIV,68,77,False,
+XYZ,68,77,False,"Block, Inc. Class A Common Stock,"
+NKLA,67,76,False,
+VIAC,67,76,False,
+WKHS,67,76,False,"Workhorse Group, Inc. - Common Stock"
+HOLD,67,76,True,Harbor Alpha Layering ETF
+XOM,66,75,False,ExxonMobil Holdings Corporation Common Stock
+XPEV,66,75,False,"XPeng Inc. American depositary shares, each representing two Class A ordinary shares"
+BTC,66,75,True,Grayscale Bitcoin Mini Trust (BTC)
+MS,66,75,False,Morgan Stanley Common Stock
+SOS,65,74,False,SOS Limited Class A Ordinary Shares
+AR,64,73,False,Antero Resources Corporation Common Stock
+CRSP,64,73,False,CRISPR Therapeutics AG - Common Shares
+QCOM,64,73,False,QUALCOMM Incorporated - Common Stock
+QS,63,72,False,QuantumScape Corporation - Common Stock
+WISH,62,71,False,
+ASML,60,69,False,ASML Holding N.V. - New York Registry Shares
+MU,58,67,False,"Micron Technology, Inc. - Common Stock"
+CDC,58,67,True,VictoryShares US EQ Income Enhanced Volatility Wtd ETF
+MSCI,56,65,False,MSCI Inc. Common Stock
+ARKX,56,65,True,ARK Space & Defense Innovation ETF
+VZ,56,65,False,Verizon Communications Inc. Common Stock
+TAN,56,65,True,Invesco Solar ETF
+LPL,55,64,False,"LG Display Co, Ltd AMERICAN DEPOSITORY SHARES"
+UAL,55,64,False,"United Airlines Holdings, Inc. - Common Stock"
+SCHD,54,63,True,Schwab US Dividend Equity ETF
+API,54,63,False,"Agora, Inc. - ADS"
+ATVI,54,63,False,
+MGM,54,63,False,MGM Resorts International Common Stock
+LMND,53,62,False,"Lemonade, Inc. Common Stock"
+IBKR,53,62,False,"Interactive Brokers Group, Inc. - Class A Common Stock"
+ZM,53,62,False,"Zoom Communications, Inc. - Class A Common Stock"
+WFC,53,62,False,Wells Fargo & Company Common Stock
+ESG,52,61,True,Northern Trust STOXX US ESG Select ETF
+MRK,52,61,False,"Merck & Company, Inc. Common Stock (new)"
+LUV,52,61,False,Southwest Airlines Company Common Stock
+ATR,52,61,False,"AptarGroup, Inc. Common Stock"
+IP,51,60,False,International Paper Company Common Stock
+LCID,51,60,False,"Lucid Group, Inc. - Common Stock"
+HOOD,51,60,False,"Robinhood Markets, Inc. - Class A Common Stock"
+LMT,51,60,False,Lockheed Martin Corporation Common Stock
+IRS,51,60,False,IRSA Inversiones Y Representaciones S.A. Global Depositary Shares (Each representing ten shares of Common Stock)
+MSOS,50,59,True,AdvisorShares Pure US Cannabis ETF
+CHPT,50,59,False,"ChargePoint Holdings, Inc. Common Stock"
+UPS,50,59,False,"United Parcel Service, Inc. Common Stock"
+BMO,50,59,False,Bank Of Montreal Common Stock
+BNTX,50,59,False,BioNTech SE - American Depositary Shares
+BBBY,49,58,False,
+DOCU,48,57,False,"DocuSign, Inc. - Common Stock"
+VS,48,57,False,Versus Systems Inc. - Common Stock
+UWMC,48,57,False,UWM Holdings Corporation Class A Common Stock
+DAL,48,57,False,"Delta Air Lines, Inc. Common Stock"
+NVAX,48,57,False,"Novavax, Inc. - Common Stock"
+PDT,48,57,False,John Hancock Premium Dividend Fund
+AMAT,47,56,False,"Applied Materials, Inc. - Common Stock"
+UI,47,56,False,Ubiquiti Inc. Common Stock
+UBER,47,56,False,"Uber Technologies, Inc. Common Stock"
+QQQJ,47,56,True,Invesco NASDAQ Next Gen 100 ETF
+DJIA,46,55,True,Global X Dow 30 Covered Call ETF
+DIDI,46,55,False,
+BYND,46,55,False,"Beyond Meat, Inc. - Common stock"
+APPS,46,55,False,"Digital Turbine, Inc. - Common Stock"
+JUST,46,55,True,Goldman Sachs JUST U.S. Large Cap Equity ETF
+QCLN,46,55,True,First Trust NASDAQ Clean Edge Green Energy Index Fund
+LOT,46,55,False,Lotus Technology Inc. - American Depositary Shares
+VT,44,53,True,Vanguard Total World Stock Index ETF
+RIVN,44,53,False,"Rivian Automotive, Inc. - Class A Common Stock"
+ARKQ,44,53,True,ARK Autonomous Technology & Robotics ETF
+ABBV,44,53,False,AbbVie Inc. Common Stock
+AFRM,43,52,False,"Affirm Holdings, Inc. - Class A Common Stock"
+MARA,42,51,False,"MARA Holdings, Inc. - Common Stock"
+CLF,42,51,False,Cleveland-Cliffs Inc. Common Stock
+UNH,42,51,False,UnitedHealth Group Incorporated Common Stock (DE)
+BIDU,42,51,False,"Baidu, Inc. - American Depositary Shares, each representing 8 ordinary share"
+GOEV,42,51,False,
+DOW,41,50,False,Dow Inc. Common Stock 
+SBUX,41,50,False,Starbucks Corporation - Common Stock
+SKLZ,41,50,False,
+ZOM,41,50,False,
+NKE,40,49,False,"Nike, Inc. Common Stock"
+SPRT,40,49,False,
+ASX,40,49,False,"ASE Technology Holding Co., Ltd. American Depositary Shares (each representing Two Common Shares) "
+PSA,39,48,False,Public Storage Common Stock
+OCGN,39,48,False,"Ocugen, Inc. - Common Stock"
+CHWY,39,48,False,"Chewy, Inc. Class A Common Stock"
+FSLY,39,48,False,"Fastly, Inc. - Class A Common Stock"
+MTD,39,48,False,"Mettler-Toledo International, Inc. Common Stock"
+QQQM,39,48,True,Invesco NASDAQ 100 ETF
+CVX,38,47,False,Chevron Corporation Common Stock
+TTD,38,47,False,"The Trade Desk, Inc. - Class A Common Stock"
+UPST,38,47,False,"Upstart Holdings, Inc. - Common stock"
+NEE,38,47,False,"NextEra Energy, Inc. Common Stock"
+PG,38,47,False,Procter & Gamble Company (The) Common Stock
+FDX,37,46,False,FedEx Corporation Common Stock
+VGT,36,45,True,Vanguard Information Tech ETF
+BBIG,36,45,False,
+RIOT,36,45,False,"Riot Platforms, Inc. - Common Stock"
+PSFE,36,45,False,Paysafe Limited Common Shares
+MGNI,35,44,False,"Magnite, Inc. - Common Stock"
+UVXY,35,44,True,ProShares Ultra VIX Short Term Futures ETF
+RTX,34,43,False,RTX Corporation Common Stock
+DASH,34,43,False,"DoorDash, Inc. - Common Stock"
+ICE,34,43,False,Intercontinental Exchange Inc. Common Stock
+ACB,34,43,False,Aurora Cannabis Inc. - Common Shares
+REGN,34,43,False,"Regeneron Pharmaceuticals, Inc. - Common Stock"
+POWW,34,43,False,Outdoor Holding Company - Common Stock
+III,34,43,False,"Information Services Group, Inc. - Common Stock"
+TWLO,33,42,False,Twilio Inc. Class A Common Stock
+BLNK,33,42,False,Blink Charging Co. - Common Stock
+HYLN,32,41,False,Hyliion Holdings Corp. Class A Common Stock
+SMH,32,41,True,VanEck Semiconductor ETF
+SENS,32,41,False,"Senseonics Holdings, Inc. - Common Stock"
+GEVO,32,41,False,"Gevo, Inc. - Common Stock"
+LI,32,41,False,Li Auto Inc. - American Depositary Shares
+SDC,31,40,False,
+BYD,31,40,False,Boyd Gaming Corporation Common Stock
+NCLH,31,40,False,Norwegian Cruise Line Holdings Ltd. Ordinary Shares
+PBW,31,40,True,Invesco WilderHill Clean Energy ETF
+PPI,31,40,True,Astoria Real Assets ETF
+EXPI,31,40,False,
+PEP,30,39,False,"PepsiCo, Inc. - Common Stock"
+BLK,30,39,False,"BlackRock, Inc. Common Stock"
+CTRM,30,39,False,Castor Maritime Inc. - Common Shares
+LULU,30,39,False,lululemon athletica inc. - Common Stock
+SQQQ,30,39,True,ProShares UltraPro Short QQQ
+FANG,30,39,False,"Diamondback Energy, Inc. - Common Stock"
+AUPH,30,39,False,Aurinia Pharmaceuticals Inc - Common Shares
+TTCF,30,39,False,
+WTI,30,39,False,"W&T Offshore, Inc. Common Stock"
+DISCA,30,39,False,
+MCD,30,39,False,McDonald's Corporation Common Stock
+NASA,29,38,True,Tema Space Innovators ETF
+SEDG,29,38,False,"SolarEdge Technologies, Inc. - Common Stock"
+MJ,29,38,True,Amplify Alternative Harvest ETF
+BNGO,29,38,False,"Bionano Genomics, Inc. - Common Stock"
+DNA,29,38,False,"Ginkgo Bioworks Holdings, Inc. Class A Common Stock"
+DE,28,37,False,Deere & Company Common Stock
+LRCX,28,37,False,Lam Research Corporation - Common Stock
+ADBE,28,37,False,Adobe Inc. - Common Stock
+SLV,27,36,True,iShares Silver Trust
+CD,27,36,False,Chaince Digital Holdings Inc. - American Ordinary Shares
+IQ,27,36,False,"iQIYI, Inc. - American Depositary Shares"
+CMG,27,36,False,"Chipotle Mexican Grill, Inc. Common Stock"
+BEP,27,36,False,Brookfield Renewable Partners L.P. Limited Partnership Units
+FVRR,26,35,False,"Fiverr International Ltd. Ordinary Shares, no par value"
+HF,26,35,True,DGA Core Plus Absolute Return ETF
+TOS,26,35,True,Twin Oak Strategic Solutions ETF
+DDOG,26,35,False,"Datadog, Inc. - Class A Common Stock"
+FSR,26,35,False,
+CGC,26,35,False,Canopy Growth Corporation - Common Shares
+SG,26,35,False,"Sweetgreen, Inc. Class A Common Stock"
+AVGO,25,34,False,Broadcom Inc. - Common Stock
+TTWO,25,34,False,"Take-Two Interactive Software, Inc. - Common Stock"
+MT,25,34,False,Arcelor Mittal NY Registry Shares NEW
+BGFV,25,34,False,
+ETH,25,34,True,Grayscale Ethereum Staking Mini ETF Shares
+PANW,25,34,False,"Palo Alto Networks, Inc. - Common Stock"
+FTNT,25,34,False,"Fortinet, Inc. - Common Stock"
+SPOT,25,34,False,Spotify Technology S.A. Ordinary Shares
+IG,25,34,True,Principal Investment Grade Corporate Active ETF
+CAT,24,33,False,"Caterpillar, Inc. Common Stock"
+MVIS,24,33,False,"MicroVision, Inc. - Common Stock"
+SNOW,24,33,False,Snowflake Inc. Common Stock
+LAC,24,33,False,Lithium Americas Corp. Common Shares
+DG,24,33,False,Dollar General Corporation Common Stock
+HON,24,33,False,Honeywell International Inc. - Common Stock
+XLF,24,33,True,State Street Financial Select Sector SPDR ETF
+ADP,23,32,False,"Automatic Data Processing, Inc. - Common Stock"
+EFT,23,32,False,Eaton Vance Floating Rate Income Trust Common Shares of Beneficial Interest
+TMO,23,32,False,Thermo Fisher Scientific Inc Common Stock
+NNDM,23,32,False,Nano Dimension Ltd. - American Depositary Shares
+CLNE,23,32,False,Clean Energy Fuels Corp. - Common Stock
+ASO,23,32,False,"Academy Sports and Outdoors, Inc. - Common Stock"
+WBA,22,31,False,
+HIMS,22,31,False,"Hims & Hers Health, Inc. Class A Common Stock"
+BETZ,22,31,True,Roundhill Sports Betting & iGaming ETF
+MELI,22,31,False,"MercadoLibre, Inc. - Common Stock"
+F,22,31,False,Ford Motor Company Common Stock
+SPWR,22,31,False,SunPower Inc. - Common Stock
+STEM,22,31,False,"Stem, Inc. Class A Common Stock"
+AZN,22,31,False,AstraZeneca PLC Ordinary Shares
+FCX,22,31,False,"Freeport-McMoRan, Inc. Common Stock"
+ATOS,21,30,False,"Atossa Therapeutics, Inc. - Common Stock"
+FCEL,21,30,False,"FuelCell Energy, Inc. - Common Stock"
+CZR,21,30,False,"Caesars Entertainment, Inc. - Common Stock"
+HIGH,21,30,True,Simplify Enhanced Income ETF
+QYLD,21,30,True,Global X NASDAQ 100 Covered Call ETF
+BMY,21,30,False,Bristol-Myers Squibb Company Common Stock
+WM,21,30,False,"Waste Management, Inc. Common Stock"
+DPZ,21,30,False,Domino's Pizza Inc - Common Stock
+AB,21,30,False,AllianceBernstein Holding L.P.  Units
+SOXL,21,30,True,Direxion Daily Semiconductor Bull 3X ETF
+BMBL,21,30,False,Bumble Inc. - common stock
+CHGG,20,29,False,"Chegg, Inc. Common Stock"
+MP,20,29,False,MP Materials Corp. Common Stock
+TECH,20,29,False,Bio-Techne Corp - Common Stock
+VUG,20,29,True,Vanguard Morningstar Growth ETF
+MO,20,29,False,"Altria Group, Inc."
+HUYA,20,29,False,"HUYA Inc. American depositary shares, each  representing one Class A ordinary share"
+ZS,19,28,False,"Zscaler, Inc. - Common Stock"
+AGTC,19,28,False,
+PIPE,19,28,True,Invesco SteelPath MLP & Energy Infrastructure ETF
+CTO,19,28,False,"CTO Realty Growth, Inc. Common Stock"
+RCL,19,28,False,Royal Caribbean Cruises Ltd. Common Stock
+MC,18,27,False,Moelis & Company Class A Common Stock
+ETN,18,27,False,"Eaton Corporation, PLC Ordinary Shares"
+MMM,18,27,False,3M Company Common Stock
+JMIA,18,27,False,"Jumia Technologies AG American Depositary Shares, each representing two Ordinary Shares"
+INO,18,27,False,"Inovio Pharmaceuticals, Inc. - Common Stock"
+IR,18,27,False,Ingersoll Rand Inc. Common Stock
+ROOT,18,27,False,"Root, Inc. - Common Stock"
+RKLB,18,27,False,Rocket Lab Corporation - Common Stock
+GRWG,18,27,False,GrowGeneration Corp. - Common Stock
+NYC,18,27,False,American Strategic Investment Co. Class A Common Stock
+OXY,18,27,False,Occidental Petroleum Corporation Common Stock
+LNG,18,27,False,"Cheniere Energy, Inc. Common Stock"
+LIT,18,27,True,Global X Lithium & Battery Tech ETF
+CVNA,17,26,False,Carvana Co. Class A Common Stock
+PRNT,17,26,True,3D Printing (The) ETF
+RAD,17,26,False,
+AA,17,26,False,Alcoa Corporation Common Stock 
+DNN,17,26,False,Denison Mines Corp Ordinary Shares (Canada)
+MUST,16,25,True,Columbia Multi-Sector Municipal Income ETF
+TMUS,16,25,False,"T-Mobile US, Inc. - Common Stock"
+BHP,16,25,False,BHP Group Limited American Depositary Shares (Each representing two Ordinary Shares)
+OGI,16,25,False,Organigram Global Inc. - Common Shares
+GEM,16,25,True,Goldman Sachs ActiveBeta Emerging Markets Equity ETF
+VOOG,16,25,True,Vanguard S&P 500 Growth ETF
+DRIP,16,25,True,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X ETF
+ACN,16,25,False,Accenture plc Class A Ordinary Shares (Ireland)
+LYFT,16,25,False,"Lyft, Inc. - Class A Common Stock"
+WOOF,16,25,False,"Petco Health and Wellness Company, Inc. - Class A Common Stock"
+HODL,16,25,True,VanEck Bitcoin Trust 
+DDD,16,25,False,3D Systems Corporation Common Stock
+APPH,16,25,False,
+SFT,16,25,False,
+VNQ,16,25,True,Vanguard Real Estate ETF
+XLE,16,25,True,State Street Energy Select Sector SPDR ETF
+CSIQ,15,24,False,Canadian Solar Inc. - Common Shares
+LB,15,24,False,LandBridge Company LLC Class A Shares Representing Limited Liability Company Interests
+SOXX,15,24,True,iShares PHLX SOX Semiconductor Sector Index Fund
+GEO,15,24,False,Geo Group Inc (The) REIT
+ZG,15,24,False,"Zillow Group, Inc. - Class A Common Stock"
+HSBC,15,24,False,"HSBC Holdings, plc. Common Stock"
+PDD,15,24,False,PDD Holdings Inc. - American Depositary Shares
+LOGI,15,24,False,Logitech International S.A. - Registered Shares
+WDAY,14,23,False,"Workday, Inc. - Class A Common Stock"
+GSK,14,23,False,GSK plc American Depositary Shares (Each representing two Ordinary Shares)
+EBIT,14,23,True,Harbor AlphaEdge Small Cap Earners ETF
+ODFL,14,23,False,"Old Dominion Freight Line, Inc. - Common Stock"
+MAXN,14,23,False,
+TER,14,23,False,"Teradyne, Inc. - Common Stock"
+CSCO,14,23,False,"Cisco Systems, Inc. - Common Stock"
+MTCH,14,23,False,"Match Group, Inc. - Common Stock"
+APP,14,23,False,Applovin Corporation - Class A Common Stock
+LLY,14,23,False,Eli Lilly and Company Common Stock
+CORP,14,23,True,PIMCO Investment Grade Corporate Bond Index Exchange-Traded Fund
+KNOW,14,23,True,Fundamentals First ETF
+SRPT,14,23,False,"Sarepta Therapeutics, Inc. - Common Stock"
+KHC,14,23,False,The Kraft Heinz Company - Common Stock
+VWO,13,22,True,Vanguard FTSE Emerging Markets ETF
+BAM,13,22,False,Brookfield Asset Management Inc Class A Limited Voting Shares
+YEAR,13,22,True,AB Ultra Short Income ETF
+VXX,13,22,False,iPath Series B S&P 500 VIX Short-Term Futures ETN
+DON,13,22,True,WisdomTree U.S. MidCap Dividend Fund
+BND,13,22,True,Vanguard Total Bond Market ETF
+ATER,13,22,False,"Aterian, Inc. - Common Stock"
+BIIB,13,22,False,Biogen Inc. - Common Stock
+HR,13,22,False,Healthcare Realty Trust Incorporated Common Stock
+MD,13,22,False,"Pediatrix Medical Group, Inc. Common Stock"
+KOSS,13,22,False,Koss Corporation - Common Stock
+CMCSA,13,22,False,Comcast Corporation - Class A Common Stock
+MAX,13,22,False,"MediaAlpha, Inc. Class A Common Stock"
+FA,13,22,False,First Advantage Corporation - Common Stock
+TRIT,13,22,False,
+HP,13,22,False,"Helmerich & Payne, Inc. Common Stock"
+INTU,13,22,False,Intuit Inc. - Common Stock
+FUTU,13,22,False,Futu Holdings Limited - American Depositary Shares
+UMC,12,21,False,United Microelectronics Corporation (NEW) Common Stock
+WWR,12,21,False,"Westwater Resources, Inc. Common Stock"
+AHT,12,21,False,Ashford Hospitality Trust Inc Common Stock
+SPXL,12,21,True,Direxion Daily S&P 500 Bull 3X ETF
+MEME,12,21,True,Roundhill Meme Stock ETF
+SHW,12,21,False,Sherwin-Williams Company (The) Common Stock
+JETS,12,21,True,U.S. Global Jets ETF
+GILD,12,21,False,"Gilead Sciences, Inc. - Common Stock"
+FSLR,12,21,False,"First Solar, Inc. - Common Stock"
+XRP,12,21,True,Bitwise XRP ETF
+GLD,12,21,True,SPDR Gold Shares
+ISRG,12,21,False,"Intuitive Surgical, Inc. - Common Stock"
+LUMN,12,21,False,"Lumen Technologies, Inc. Common Stock"
+COTY,12,21,False,Coty Inc. Class A Common Stock
+MRVL,12,21,False,"Marvell Technology, Inc. - Common Stock"
+BEAM,11,20,False,Beam Therapeutics Inc. - Common Stock
+HIMX,11,20,False,"Himax Technologies, Inc. - American depositary shares, each of which represents two ordinary shares."
+SEA,11,20,True,U.S. Global Sea to Sky Cargo ETF
+SAP,11,20,False,SAP  SE ADS
+NXPI,11,20,False,NXP Semiconductors N.V. - Common Stock
+WDC,11,20,False,Western Digital Corporation - Common Stock
+COP,11,20,False,ConocoPhillips Common Stock
+TME,11,20,False,"Tencent Music Entertainment Group American Depositary Shares, each representing two Class A Ordinary Shares"
+BBY,11,20,False,"Best Buy Co., Inc. Common Stock"
+EH,11,20,False,EHang Holdings Limited - ADS
+LAZR,11,20,True,Tema Photonics & Optical ETF
+ZIM,11,20,False,ZIM Integrated Shipping Services Ltd. Ordinary Shares
+ORCL,11,20,False,Oracle Corporation Common Stock
+ADSK,11,20,False,"Autodesk, Inc. - Common Stock"
+WEED,11,20,True,Roundhill Cannabis ETF
+ALB,11,20,False,Albemarle Corporation Common Stock
+BX,10,19,False,Blackstone Inc. Common Stock
+EDU,10,19,False,"New Oriental Education & Technology Group, Inc. Sponsored ADR representing 10 Ordinary Share (Cayman Islands)"
+AXP,10,19,False,American Express Company Common Stock
+DOCN,10,19,False,"DigitalOcean Holdings, Inc. Common Stock"
+IVR,10,19,False,INVESCO MORTGAGE CAPITAL INC Common Stock
+TIGR,10,19,False,UP Fintech Holding Limited - American Depositary Shares representing fifteen Class A Ordinary Shares
+UPRO,10,19,True,ProShares UltraPro S&P 500
+PUMP,10,19,False,ProPetro Holding Corp. Common Stock
+NTLA,10,19,False,"Intellia Therapeutics, Inc. - Common Stock"
+SCHB,10,19,True,Schwab U.S. Broad Market ETF
+TXN,10,19,False,Texas Instruments Incorporated - Common Stock
+UNP,10,19,False,Union Pacific Corporation Common Stock
+DELL,9,18,False,Dell Technologies Inc. Class C Common Stock 
+SPG,9,18,False,"Simon Property Group, Inc. Common Stock"
+SK,9,18,True,Corgi SK hynix 2x Daily ETF
+CROX,9,18,False,"Crocs, Inc. - Common Stock"
+FTC,9,18,True,First Trust Large Cap Growth AlphaDEX Fund
+ILMN,9,18,False,"Illumina, Inc. - Common Stock"
+ALLY,9,18,False,Ally Financial Inc. Common Stock
+LEN,9,18,False,Lennar Corporation Class A Common Stock
+AKA,9,18,False,a.k.a. Brands Holding Corp. Common Stock
+ABT,9,18,False,Abbott Laboratories Common Stock
+JAZZ,9,18,False,Jazz Pharmaceuticals plc - Ordinary Shares
+BILL,9,18,False,"BILL Holdings, Inc. Common Stock"
+TEAM,9,18,False,Atlassian Corporation  - Class A Common Stock
+HGEN,9,18,False,
+GPN,9,18,False,Global Payments Inc. Common Stock
+BOTZ,9,18,True,Global X Robotics & Artificial Intelligence ETF
+XLK,9,18,True,State Street Technology Select Sector SPDR ETF
+USO,9,18,True,United States Oil Fund
+VYM,9,18,True,Vanguard High Dividend Yield ETF
+DOYU,9,18,False,DouYu International Holdings Limited - American Depositary Shares
+EYES,9,18,True,Corgi Data & Surveillance ETF
+ESPO,9,18,True,VanEck Video Gaming and eSports ETF
+GNRC,9,18,False,Generac Holdlings Inc. Common Stock
+ULTA,8,17,False,"Ulta Beauty, Inc. - Common Stock"
+ASTS,8,17,False,"AST SpaceMobile, Inc. - Class A Common Stock"
+APD,8,17,False,"Air Products and Chemicals, Inc. Common Stock"
+BARK,8,17,False,"BARK, Inc. Class A Common Stock"
+IAG,8,17,False,Iamgold Corporation Ordinary Shares
+FNKO,8,17,False,"Funko, Inc. - Class A Common Stock"
+SAM,8,17,False,"Boston Beer Company, Inc. (The) Common Stock"
+BOOM,8,17,False,DMC Global Inc. - Common Stock
+NXP,8,17,False,Nuveen Select Tax Free Income Portfolio Common Stock
+AAA,8,17,True,Alternative Access First Priority CLO Bond ETF
+BULL,8,17,False,Webull Corporation - Class A Ordinary Shares
+SONY,8,17,False,Sony Group Corporation American Depositary Shares 
+SKT,8,17,False,Tanger Inc. Common Stock
+OTLY,8,17,False,Oatly Group AB - American Depositary Shares
+LDI,8,17,False,"loanDepot, Inc. Class A Common Stock"
+AD,8,17,False,"Array Digital Infrastructure, Inc. Common Shares"
+CLSK,8,17,False,"CleanSpark, Inc. - Common Stock"
+MAC,8,17,False,Macerich Company (The) Common Stock
+SWBI,8,17,False,"Smith & Wesson Brands, Inc. - Common Stock"
+AGNC,8,17,False,AGNC Investment Corp. - Common Stock
+PAVE,8,17,True,Global X U.S. Infrastructure Development ETF
+PB,8,17,False,"Prosperity Bancshares, Inc. Common Stock"
+XPO,8,17,False,"XPO, Inc. Common Stock"
+DHR,8,17,False,Danaher Corporation Common Stock
+FND,8,17,False,"Floor & Decor Holdings, Inc. Common Stock"
+DKS,8,17,False,Dick's Sporting Goods Inc Common Stock
+UAVS,7,16,False,"AgEagle Aerial Systems, Inc. Common Stock"
+VRTX,7,16,False,Vertex Pharmaceuticals Incorporated - Common Stock
+XRT,7,16,True,State Street SPDR S&P Retail ETF
+GSAT,7,16,False,"Globalstar, Inc. - Common Stock"
+BEEM,7,16,False,Beam Global - Common Stock
+TX,7,16,False,"Ternium S.A. Ternium S.A. American Depositary Shares (each representing ten shares, USD1.00 par value)"
+IIPR,7,16,False,"Innovative Industrial Properties, Inc. Common Stock"
+VALE,7,16,False,VALE S.A.  American Depositary Shares Each Representing one common share
+OLED,7,16,False,Universal Display Corporation - Common Stock
+FAMI,7,16,False,"Farmmi, Inc. - Class A Ordinary Shares"
+VC,7,16,False,Visteon Corporation - Common Stock
+SPYG,7,16,True,State Street SPDR Portfolio S&P 500 Growth ETF
+CP,7,16,False,Canadian Pacific Kansas City Limited Common Shares
+BC,7,16,False,Brunswick Corporation Common Stock
+AMMO,7,16,True,VistaShares Defense Supercycle ETF
+AMT,7,16,False,American Tower Corporation (REIT) Common Stock
+WANT,7,16,True,Direxion Daily Consumer Discretionary Bull 3X ETF
+CB,7,16,False,Chubb Limited  Common Stock
+VO,7,16,True,Vanguard Morningstar Mid-Cap ETF
+PACB,7,16,False,"Pacific Biosciences of California, Inc. - Common Stock"
+KT,7,16,False,KT Corporation Common Stock
+MOVE,7,16,False,"Corvex, Inc. - Common Stock"
+T,7,16,False,AT&T Inc.
+JKS,7,16,False,JinkoSolar Holding Company Limited American Depositary Shares (each representing 4 Common Shares)
+STZ,7,16,False,"Constellation Brands, Inc. Common Stock"
+VTV,7,16,True,Vanguard Morningstar Value ETF
+CF,7,16,False,"CF Industries Holdings, Inc. Common Stock"
+RNG,7,16,False,"RingCentral, Inc. Class A Common Stock"
+MSTR,7,16,False,Strategy Inc - Class A Common Stock
+DTE,6,15,False,DTE Energy Company Common Stock
+MOAT,6,15,True,VanEck Morningstar Wide Moat ETF
+SWKS,6,15,False,"Skyworks Solutions, Inc. - Common Stock"
+BBW,6,15,False,"Build-A-Bear Workshop, Inc. Common Stock"
+CAPE,6,15,True,DoubleLine Shiller CAPE U.S. Equities ETF
+OWN,6,15,True,Inside Ownership 100 ETF
+ABCL,6,15,False,AbCellera Biologics Inc. - Common Shares
+AMTD,6,15,False,"AMTD IDEA Group American Depositary Shares, each representing six (6) Class A Ordinary Shares"
+LVS,6,15,False,Las Vegas Sands Corp. Common Stock
+VB,6,15,True,Vanguard Morningstar Small-Cap ETF
+KKR,6,15,False,KKR & Co. Inc. Common Stock
+CPNG,6,15,False,"Coupang, Inc. Class A Common Stock"
+TM,6,15,False,Toyota Motor Corporation Common Stock
+CELH,6,15,False,"Celsius Holdings, Inc. - Common Stock"
+DHI,6,15,False,"D.R. Horton, Inc. Common Stock"
+UAE,6,15,True,iShares MSCI UAE ETF
+MX,6,15,False,Magnachip Semiconductor Corporation Common Stock
+NEGG,6,15,False,"Newegg Commerce, Inc. - Common Shares"
+BFLY,6,15,False,"Butterfly Network, Inc. Class A Common Stock"
+ARR,6,15,False,"ARMOUR Residential REIT, Inc."
+IVV,6,15,True,iShares Core S&P 500 ETF
+BILI,6,15,False,Bilibili Inc. - American Depositary Shares
+IRDM,6,15,False,Iridium Communications Inc - Common Stock
+DBX,6,15,False,"Dropbox, Inc. - Class A Common Stock"
+OKTA,6,15,False,"Okta, Inc. - Class A Common Stock"
+XLY,6,15,True,State Street Consumer Discretionary Select Sector SPDR ETF
+UN,6,15,True,Corgi UNH 2x Daily ETF
+VUZI,6,15,False,Vuzix Corporation  - Common Stock
+OSK,5,14,False,Oshkosh Corporation (Holding Company)Common Stock
+POST,5,14,False,"Post Holdings, Inc. Common Stock"
+OI,5,14,False,"O-I Glass, Inc. Common Stock"
+CCI,5,14,False,Crown Castle Inc. Common Stock
+ZKIN,5,14,False,"ZK International Group Co., Ltd - Ordinary Share"
+CBOE,5,14,False,"Cboe Global Markets, Inc. Common Stock"
+ONTX,5,14,True,Corgi ONTO 2x Daily ETF
+CNK,5,14,False,"Cinemark Holdings Inc Cinemark Holdings, Inc. Common Stock"
+COMP,5,14,False,"Compass, Inc. Class A Common Stock"
+CG,5,14,False,The Carlyle Group Inc. - Common Stock
+SABR,5,14,False,Sabre Corporation - Common Stock
+NIU,5,14,False,Niu Technologies - American Depositary Shares
+META,5,14,False,"Meta Platforms, Inc. - Class A Common Stock"
+CMC,5,14,False,Commercial Metals Company Common Stock
+CLX,5,14,False,Clorox Company (The) Common Stock
+OPTT,5,14,False,"Ocean Power Technologies, Inc. Common Stock"
+BTI,5,14,False,"British American Tobacco  Industries, p.l.c. Common Stock ADR"
+TLT,5,14,True,iShares 20+ Year Treasury Bond ETF
+TJX,5,14,False,"TJX Companies, Inc. (The) Common Stock"
+ENB,5,14,False,Enbridge Inc Common Stock
+WB,5,14,False,Weibo Corporation - American Depositary Shares
+EPD,5,14,False,Enterprise Products Partners L.P. Common Stock
+VG,5,14,False,"Venture Global, Inc. Class A common stock"
+GT,5,14,False,The Goodyear Tire & Rubber Company - Common Stock
+GDRX,5,14,False,"GoodRx Holdings, Inc. - Class A Common Stock"
+APTV,5,14,False,Aptiv PLC Ordinary Shares
+DNUT,5,14,False,"Krispy Kreme, Inc. - Common Stock"
+FNGU,5,14,True,MicroSectors FANG+ 3X Leveraged ETNs
+EOD,5,14,False,Allspring Global Dividend Opportunity Fund Common Shares of Beneficial Interest
+VIG,5,14,True,Vanguard Div Appreciation ETF
+U,5,14,False,Unity Software Inc. Common Stock
+JAGX,5,14,False,"Jaguar Health, Inc. - Common Stock"
+DDS,5,14,False,"Dillard's, Inc. Common Stock"
+CPA,5,14,False,"Copa Holdings, S.A. Class A Common Stock"
+STAG,5,14,False,"Stag Industrial, Inc. Common Stock"
+UAA,5,14,False,"Under Armour, Inc. Class A Common Stock"
+KSS,5,14,False,Kohl's Corporation Common Stock
+PD,4,13,False,"PagerDuty, Inc. Common Stock"
+PLBY,4,13,False,"Playboy, Inc. - Common Stock"
+OLN,4,13,False,Olin Corporation Common Stock
+KNDI,4,13,False,"Kandi Technologies Group, Inc. - Ordinary Shares"
+KPLT,4,13,False,"Katapult Holdings, Inc. - Common Stock"
+CTXR,4,13,False,"Citius Pharmaceuticals, Inc. - Common Stock"
+KULR,4,13,False,"KULR Technology Group, Inc. Common Stock"
+BBB,4,13,True,CYBER HORNET S&P 500 and Bitcoin 75/25 Strategy ETF
+BCRX,4,13,False,"BioCryst Pharmaceuticals, Inc. - Common Stock"
+TAL,4,13,False,TAL Education Group American Depositary Shares
+KR,4,13,False,Kroger Company (The) Common Stock
+SU,4,13,False,Suncor Energy  Inc. Common Stock
+TMF,4,13,True,Direxion Daily 20-Yr Treasury Bull 3x Shrs
+HRTX,4,13,False,"Heron Therapeutics, Inc.   - Common Stock"
+HPQ,4,13,False,HP Inc. Common Stock
+HPE,4,13,False,Hewlett Packard Enterprise Company Common Stock
+IMF,4,13,True,Invesco Managed Futures Strategy ETF
+KPTI,4,13,False,Karyopharm Therapeutics Inc. - Common Stock
+EBS,4,13,False,Emergent BioSolutions Inc. Common Stock
+ALOT,4,13,False,"AstroNova, Inc. - Common Stock"
+ADI,4,13,False,"Analog Devices, Inc. - Common Stock"
+VIR,4,13,False,"Vir Biotechnology, Inc. - Common Stock"
+EVGO,4,13,False,EVgo Inc. - Common Stock
+ESS,4,13,False,"Essex Property Trust, Inc. Common Stock"
+ALGN,4,13,False,"Align Technology, Inc. - Common Stock"
+ERIC,4,13,False,Ericsson - American Depositary Shares each representing 1 underlying Class B share
+FLGT,4,13,False,"Fulgent Genetics, Inc. - Common Stock"
+DTIL,4,13,False,"Precision BioSciences, Inc. - Common Stock"
+USE,4,13,True,USCF Energy Commodity Strategy Absolute Return Fund
+UPWK,4,13,False,Upwork Inc. - Common Stock
+AQB,4,13,False,"AquaBounty Technologies, Inc. - Common Stock"
+DLTR,4,13,False,"Dollar Tree, Inc. - Common Stock"
+ASA,4,13,False,ASA  Gold and Precious Metals Limited
+ASAN,4,13,False,"Asana, Inc. Class A Common Stock"
+SPXS,4,13,True,Direxion Daily S&P 500 Bear 3X ETF
+RIG,4,13,False,Transocean Ltd (Switzerland) Common Stock
+CLS,4,13,False,"Celestica, Inc. Common Stock"
+NERD,4,13,True,Roundhill Video Games ETF
+BTX,4,13,False,BlackRock Technology and Private Equity Term Trust Common Shares of Beneficial Interest
+XBI,4,13,True,State Street SPDR S&P Biotech ETF
+PCG,4,13,False,Pacific Gas & Electric Co. Common Stock
+CI,4,13,False,The Cigna Group Common Stock
+SMG,4,13,False,Scotts Miracle-Gro Company (The) Common Stock
+SIRI,4,13,False,SiriusXM Holdings Inc. - Common Stock
+MLM,4,13,False,"Martin Marietta Materials, Inc. Common Stock"
+HQ,4,13,False,Horizon Quantum Holdings Ltd. - Class A Ordinary Shares
+BUD,4,13,False,Anheuser-Busch Inbev SA Sponsored ADR (Belgium)
+PSEC,4,13,False,Prospect Capital Corporation - Closed End Fund
+BURL,4,13,False,"Burlington Stores, Inc. Common Stock"
+COF,4,13,False,Capital One Financial Corporation Common Stock
+RIO,4,13,False,Rio Tinto Plc Common Stock
+SFIX,4,13,False,"Stitch Fix, Inc. - Class A Common Stock"
+CME,4,13,False,CME Group Inc. - Class A Common Stock
+SONO,4,13,False,"Sonos, Inc. - Common Stock"
+MVST,4,13,False,"Microvast Holdings, Inc. - Common Stock"
+WY,4,13,False,Weyerhaeuser Company Common Stock
+MDB,3,12,False,"MongoDB, Inc. - Class A Common Stock"
+SLQT,3,12,False,"SelectQuote, Inc. Common Stock"
+WYNN,3,12,False,"Wynn Resorts, Limited - Common Stock"
+LYV,3,12,False,"Live Nation Entertainment, Inc. Common Stock"
+BLDP,3,12,False,"Ballard Power Systems, Inc. - Common Shares"
+MCHP,3,12,False,Microchip Technology Incorporated - Common Stock
+BLDR,3,12,False,"Builders FirstSource, Inc. Common Stock"
+BEPC,3,12,False,Brookfield Renewable Corporation Brookfield Renewable Corporation Class A Subordinate Voting Shares
+CMPS,3,12,False,COMPASS Pathways Plc - American Depository Shares
+CCS,3,12,False,"Century Communities, Inc. Common Stock"
+AKBA,3,12,False,"Akebia Therapeutics, Inc. - Common Stock"
+DRIV,3,12,True,Global X Autonomous & Electric Vehicles ETF
+ANET,3,12,False,"Arista Networks, Inc. Common Stock"
+DQ,3,12,False,"DAQO New Energy Corp. American Depositary Shares, each representing five ordinary shares"
+FATE,3,12,False,"Fate Therapeutics, Inc. - Common Stock"
+GRAB,3,12,False,Grab Holdings Limited - Class A Ordinary Shares
+GTE,3,12,False,Gran Tierra Energy Inc. Common Stock
+GPRO,3,12,False,"GoPro, Inc. - Class A Common Stock"
+ATAI,3,12,False,AtaiBeckley Inc. - Common Stock
+IOT,3,12,False,Samsara Inc. Class A Common Stock
+THC,3,12,False,Tenet Healthcare Corporation Common Stock
+V,3,12,False,Visa Inc.
+PATH,3,12,False,"UiPath, Inc. Class A Common Stock"
+PHUN,3,12,False,"Phunware, Inc. - Common Stock"
+PGR,3,12,False,Progressive Corporation (The) Common Stock
+AAP,3,12,False,Advance Auto Parts Inc.
+NNOX,3,12,False,NANO-X IMAGING LTD - Ordinary Shares
+RNA,3,12,False,"Atrium Therapeutics, Inc. - Common Stock"
+CL,3,12,False,Colgate-Palmolive Company Common Stock
+RVP,3,12,False,"Retractable Technologies, Inc. Common Stock"
+BIO,3,12,False,"Bio-Rad Laboratories, Inc. Class A Common Stock"
+DAC,3,12,False,Danaos Corporation Common Stock
+IHS,3,12,False,IHS Holding Limited Ordinary Shares
+INFO,3,12,True,Harbor PanAgora Dynamic Large Cap Core ETF
+TRIP,3,12,False,"TripAdvisor, Inc. - Common Stock"
+TNXP,3,12,False,Tonix Pharmaceuticals Holding Corp. - Common Stock
+JBLU,3,12,False,JetBlue Airways Corporation - Common Stock
+KMX,3,12,False,CarMax Inc
+TAC,3,12,False,TransAlta Corporation Ordinary Shares
+AZO,3,12,False,"AutoZone, Inc. Common Stock"
+LAUR,3,12,False,"Laureate Education, Inc. - Common Stock"
+KTOS,3,12,False,"Kratos Defense & Security Solutions, Inc. - Common Stock"
+QSR,3,12,False,Restaurant Brands International Inc. Common Shares
+PERI,3,12,False,Perion Network Ltd - Ordinary Shares
+XXII,3,12,False,"22nd Century Group, Inc - Common Stock"
+O,2,11,False,Realty Income Corporation Common Stock
+NYT,2,11,False,New York Times Company (The) Common Stock
+PI,2,11,False,"Impinj, Inc. - Common Stock"
+PETS,2,11,False,"PetMed Express, Inc. - Common Stock"
+PLNT,2,11,False,"Planet Fitness, Inc. Common Stock"
+NUE,2,11,False,Nucor Corporation Common Stock
+PLUS,2,11,False,ePlus inc. - Common Stock
+WCLD,2,11,True,WisdomTree Cloud Computing Fund
+CARR,2,11,False,Carrier Global Corporation Common Stock 
+EBON,2,11,False,Ebang International Holdings Inc. - Class A Ordinary Shares
+FT,2,11,False,Franklin Universal Trust Common Stock
+VST,2,11,False,Vistra Corp. Common Stock
+EBAY,2,11,False,eBay Inc. - Common Stock
+HUBS,2,11,False,"HubSpot, Inc. Common Stock"
+TXMD,2,11,False,"TherapeuticsMD, Inc. - Common Stock"
+IBD,2,11,True,Inspire Corporate Bond ETF
+CVM,2,11,False,Cel-Sci Corporation Common Stock
+STX,2,11,False,Seagate Technology Holdings PLC - Ordinary Shares (Ireland)
+BKNG,2,11,False,Booking Holdings Inc. - Common Stock
+SCHW,2,11,False,Charles Schwab Corporation (The) Common Stock
+SHIP,2,11,False,Seanergy Maritime Holdings Corp. - Common Stock
+SLS,2,11,False,"SELLAS Life Sciences Group, Inc.  - Common Stock"
+PSLV,2,11,True,Sprott Physical Silver Trust ETV
+PUBM,2,11,False,"PubMatic, Inc. - Class A Common Stock"
+NAT,2,11,False,Nordic American Tankers Limited Common Stock
+NDAQ,2,11,False,"Nasdaq, Inc. - Common Stock"
+SCHF,2,11,True,Schwab International Equity ETF
+BLOK,2,11,True,Amplify Blockchain Technology ETF
+MAR,2,11,False,Marriott International - Class A Common Stock
+USB,2,11,False,U.S. Bancorp Common Stock
+EQIX,2,11,False,"Equinix, Inc. - Common Stock"
+AMGN,2,11,False,Amgen Inc. - Common Stock
+GAP,2,11,False,"Gap, Inc. (The) Common Stock"
+URA,2,11,True,Global X Uranium ETF
+SPHD,2,11,True,Invesco S&P 500 High Dividend Low Volatility ETF
+TAX,2,11,True,Cambria Tax Aware ETF
+HVAC,2,11,True,AdvisorShares HVAC and Industrials ETF
+VTRS,2,11,False,Viatris Inc. - Common Stock
+UFO,2,11,True,Procure Space ETF
+LPX,1,10,False,Louisiana-Pacific Corporation Common Stock
+SHO,1,10,False,"Sunstone Hotel Investors, Inc. Sunstone Hotel Investors, Inc. Common Shares"
+MITQ,1,10,False,"Moving iMage Technologies, Inc. Common Stock"
+LH,1,10,False,Labcorp Holdings Inc. Common Stock
+SNPS,1,10,False,"Synopsys, Inc. - Common Stock"
+NC,1,10,False,"NACCO Industries, Inc. Common Stock"
+WPP,1,10,False,WPP plc American Depositary Shares
+ORA,1,10,False,"Ormat Technologies, Inc. Common Stock"
+PRPL,1,10,False,"Purple Innovation, Inc. - Common Stock"
+XERS,1,10,False,"Xeris Biopharma Holdings, Inc. - Common Stock"
+PWR,1,10,False,"Quanta Services, Inc. Common Stock"
+CNI,1,10,False,Canadian National Railway Company Common Stock
+NEM,1,10,False,Newmont Corporation
+ON,1,10,False,ON Semiconductor Corporation - Common Stock
+RISE,1,10,True,Pictet Emerging Markets Rising Economies ETF
+RIGL,1,10,False,"Rigel Pharmaceuticals, Inc. - Common Stock"
+RAM,1,10,True,Roundhill T-REX 2X Long DRAM Daily Target ETF
+BROS,1,10,False,Dutch Bros Inc. Class A Common Stock
+OPEN,1,10,False,Opendoor Technologies Inc  - Common Stock
+CIBR,1,10,True,First Trust NASDAQ Cybersecurity ETF
+CGNT,1,10,False,Cognyte Software Ltd. - Ordinary Shares
+SSYS,1,10,False,"Stratasys, Ltd. - Common Stock"
+HL,1,10,False,Hecla Mining Company Common Stock
+HITI,1,10,False,High Tide Inc. - Common Shares
+TRVG,1,10,False,trivago N.V. - American Depositary Shares
+TSN,1,10,False,"Tyson Foods, Inc. Common Stock"
+TEVA,1,10,False,Teva Pharmaceutical Industries Limited American Depositary Shares
+TAP,1,10,False,Molson Coors Beverage Company Class B Common Stock
+TLS,1,10,False,Telos Corporation - Common Stock
+SPT,1,10,False,"Sprout Social, Inc - Class A Common Stock"
+CURE,1,10,True,Direxion Daily Healthcare Bull 3X ETF
+CSX,1,10,False,CSX Corporation - Common Stock
+CRON,1,10,False,Cronos Group Inc. - Common Share
+STLA,1,10,False,Stellantis N.V. Common Shares
+SPYD,1,10,True,State Street SPDR Portfolio S&P 500 High Dividend ETF
+KOPN,1,10,False,Kopin Corporation - Common Stock
+TAK,1,10,False,Takeda Pharmaceutical Company Limited American Depositary Shares (each representing 1/2 of a share of Common Stock)
+IND,1,10,True,Xtrackers Nifty 500 India ETF
+FMC,1,10,False,FMC Corporation Common Stock
+FIGS,1,10,False,"FIGS, Inc. Class A Common Stock"
+UXIN,1,10,False,Uxin Limited - American Depositary Shares
+FICO,1,10,False,Fair Isaac Corporation Common Stock
+ARCT,1,10,False,Arcturus Therapeutics Holdings Inc. - Common Stock
+ARDX,1,10,False,"Ardelyx, Inc. - Common Stock"
+GBR,1,10,False,"New Concept Energy, Inc Common Stock"
+DLR,1,10,False,"Digital Realty Trust, Inc. Common Stock"
+GWH,1,10,False,"ESS Tech, Inc. Common Stock"
+ATOM,1,10,False,Atomera Incorporated - Common Stock
+GL,1,10,False,Globe Life Inc. Common Stock
+DUOL,1,10,False,"Duolingo, Inc. - Class A Common Stock"
+EMR,1,10,False,Emerson Electric Company Common Stock
+VCR,1,10,True,Vanguard Consumer Discretion ETF
+FTEC,1,10,True,Fidelity MSCI Information Technology Index ETF
+AP,1,10,False,Ampco-Pittsburgh Corporation Common Stock

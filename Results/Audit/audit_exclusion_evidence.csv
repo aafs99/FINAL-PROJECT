@@ -1,0 +1,152 @@
+symbol,posts_raw,posts_bare,posts_cashtag,posts_bare_or_cashtag,posts_only_in_urls,cashtag_share,in_universe,rule
+GME,2152,2000,167,2149,1,0.0777,True,reference
+US,2156,2125,3,2127,28,0.0014,False,excluded
+ETF,1749,1747,1,1747,1,0.0006,False,excluded
+DD,1725,1724,2,1725,0,0.0012,True,excluded
+IPO,1196,1196,0,1196,0,0.0,True,excluded
+AMC,1113,1038,92,1110,2,0.0829,True,reference
+CEO,1024,1023,1,1024,0,0.001,False,excluded
+AAPL,813,754,62,809,4,0.0766,True,reference
+TSLA,743,664,85,739,4,0.115,True,reference
+EPS,672,672,0,672,0,0.0,True,excluded
+IRA,496,496,0,496,0,0.0,False,excluded
+UK,440,440,0,440,0,0.0,True,excluded
+NYSE,443,422,0,422,20,0.0,False,excluded
+SEC,368,366,0,366,1,0.0,False,excluded
+TD,365,361,2,363,1,0.0055,True,excluded
+USD,350,343,4,346,4,0.0116,True,excluded
+PE,341,339,0,339,2,0.0,False,excluded
+WSB,335,335,0,335,0,0.0,False,excluded
+FDA,333,333,0,333,0,0.0,False,excluded
+TLDR,330,330,0,330,0,0.0,True,excluded
+AI,331,323,4,324,2,0.0123,True,excluded
+RH,321,321,0,321,0,0.0,True,excluded
+USA,297,295,0,295,2,0.0,True,excluded
+EDIT,290,290,1,290,0,0.0034,True,excluded
+ATH,256,256,0,256,0,0.0,False,excluded
+FOR,251,251,0,251,0,0.0,True,excluded
+HOME,248,246,2,248,0,0.0081,False,cashtag only
+EU,223,222,0,222,1,0.0,True,excluded
+ITM,203,202,1,203,0,0.0049,True,excluded
+RSI,200,198,5,200,0,0.025,True,excluded
+DCA,198,198,0,198,0,0.0,False,excluded
+IT,179,178,1,179,0,0.0056,True,excluded
+YTD,177,177,0,177,0,0.0,False,excluded
+TV,175,175,0,175,0,0.0,True,excluded
+HERE,173,173,0,173,0,0.0,True,excluded
+IMO,173,169,1,170,2,0.0059,True,excluded
+FOMO,169,168,1,169,0,0.0059,False,excluded
+ON,168,159,10,167,1,0.0599,True,cashtag only
+JP,160,157,0,157,1,0.0,False,excluded
+TA,258,152,0,152,106,0.0,False,excluded
+WEEK,147,147,0,147,0,0.0,True,excluded
+PT,147,146,0,146,1,0.0,False,excluded
+ALL,149,145,0,145,2,0.0,True,excluded
+OTM,145,145,0,145,0,0.0,False,excluded
+LINK,143,142,1,143,0,0.007,True,excluded
+OPEN,141,134,10,141,0,0.0709,True,cashtag only
+GDP,139,139,0,139,0,0.0,False,excluded
+PRE,138,138,0,138,0,0.0,True,excluded
+ET,138,132,7,138,0,0.0507,True,excluded
+UP,136,136,1,136,0,0.0074,True,excluded
+NOW,135,133,3,135,0,0.0222,True,cashtag only
+CFO,130,130,0,130,0,0.0,True,excluded
+AM,129,126,2,128,1,0.0156,True,cashtag only
+MACD,127,127,0,127,0,0.0,False,excluded
+YOLO,124,121,3,124,0,0.0242,True,excluded
+PEG,117,116,1,117,0,0.0085,True,excluded
+PM,113,108,5,112,1,0.0446,True,excluded
+NEXT,112,112,0,112,0,0.0,True,cashtag only
+REIT,103,103,0,103,0,0.0,True,excluded
+SMA,102,102,0,102,0,0.0,True,excluded
+LIVE,101,100,1,101,0,0.0099,True,cashtag only
+PS,97,97,0,97,0,0.0,True,excluded
+ATM,95,95,0,95,0,0.0,False,excluded
+NEW,95,94,1,95,0,0.0105,False,cashtag only
+FCF,93,93,0,93,0,0.0,True,excluded
+OR,332,93,0,93,239,0.0,True,excluded
+FED,91,91,0,91,0,0.0,False,excluded
+FREE,90,90,0,90,0,0.0,False,cashtag only
+AS,89,86,0,86,0,0.0,True,excluded
+ROI,83,83,0,83,0,0.0,False,excluded
+DO,83,83,0,83,0,0.0,False,cashtag only
+AG,84,81,1,82,2,0.0122,True,excluded
+TIME,81,81,0,81,0,0.0,True,cashtag only
+BIG,73,72,1,73,0,0.0137,False,cashtag only
+SI,70,61,8,69,1,0.1159,True,excluded
+BE,70,64,5,69,0,0.0725,True,cashtag only
+PR,69,67,0,67,0,0.0,True,excluded
+VWAP,65,65,0,65,0,0.0,False,excluded
+SO,64,60,4,64,0,0.0625,True,cashtag only
+YOY,64,64,0,64,0,0.0,False,excluded
+MOST,63,63,0,63,0,0.0,False,cashtag only
+CC,63,61,2,63,0,0.0317,True,excluded
+CAN,64,62,1,63,0,0.0159,True,cashtag only
+ARE,61,61,0,61,0,0.0,True,cashtag only
+EMA,61,61,0,61,0,0.0,True,excluded
+BEST,58,57,2,58,0,0.0345,False,cashtag only
+BETA,56,56,0,56,0,0.0,True,excluded
+LOW,56,55,1,56,0,0.0179,True,cashtag only
+SA,60,55,0,55,4,0.0,True,excluded
+TREE,55,53,3,55,0,0.0545,True,cashtag only
+ONE,55,54,0,54,1,0.0,False,cashtag only
+COO,52,52,0,52,0,0.0,True,excluded
+DM,51,49,4,51,0,0.0784,False,excluded
+ANY,51,48,3,51,0,0.0588,True,cashtag only
+RUN,45,41,4,45,0,0.0889,True,cashtag only
+OUT,45,45,0,45,0,0.0,True,cashtag only
+WTF,44,43,0,43,0,0.0,True,excluded
+RBC,43,43,0,43,0,0.0,True,excluded
+PLAY,43,43,0,43,0,0.0,True,cashtag only
+GO,41,41,0,41,0,0.0,True,cashtag only
+WELL,38,31,8,38,0,0.2105,True,cashtag only
+BY,37,37,0,37,0,0.0,True,cashtag only
+DE,51,32,6,37,3,0.1622,True,reference
+GOOD,36,36,0,36,0,0.0,True,cashtag only
+WAY,35,35,0,35,0,0.0,True,excluded
+LSE,34,34,0,34,0,0.0,True,excluded
+DC,34,34,0,34,0,0.0,True,excluded
+CAR,35,30,4,34,1,0.1176,True,cashtag only
+NAV,33,33,0,33,0,0.0,False,excluded
+GOLD,33,27,6,33,0,0.1818,True,cashtag only
+PMI,32,32,1,32,0,0.0312,True,excluded
+CA,40,31,0,31,3,0.0,False,excluded
+LOL,31,31,0,31,0,0.0,False,excluded
+TOP,28,28,0,28,0,0.0,True,cashtag only
+HAS,28,26,2,27,1,0.0741,True,cashtag only
+REAL,28,26,2,27,1,0.0741,True,cashtag only
+AUM,25,25,0,25,0,0.0,False,excluded
+MF,24,24,0,24,0,0.0,True,excluded
+GOP,24,24,0,24,0,0.0,True,excluded
+CASH,23,23,0,23,0,0.0,True,cashtag only
+IE,24,23,0,23,1,0.0,True,excluded
+SEE,22,22,1,22,0,0.0455,False,cashtag only
+LOVE,21,19,2,21,0,0.0952,True,cashtag only
+MINE,20,10,10,20,0,0.5,True,cashtag only
+OP,20,20,0,20,0,0.0,False,excluded
+AN,19,19,0,19,0,0.0,True,cashtag only
+RR,18,17,1,18,0,0.0556,True,excluded
+KEY,17,17,0,17,0,0.0,True,cashtag only
+SAFE,16,16,0,16,0,0.0,True,cashtag only
+FAST,16,16,0,16,0,0.0,True,cashtag only
+DMA,16,15,0,15,1,0.0,True,excluded
+EVER,13,13,0,13,0,0.0,True,cashtag only
+GAIN,10,10,0,10,0,0.0,True,cashtag only
+TWO,9,9,0,9,0,0.0,True,cashtag only
+AMA,9,9,0,9,0,0.0,True,excluded
+LIFE,8,8,0,8,0,0.0,True,cashtag only
+FUN,8,8,1,8,0,0.125,True,cashtag only
+NICE,7,7,0,7,0,0.0,True,cashtag only
+TRUE,7,6,0,6,1,0.0,False,cashtag only
+PAY,6,6,0,6,0,0.0,True,cashtag only
+TBH,5,5,0,5,0,0.0,False,excluded
+PEAK,4,2,2,4,0,0.5,False,cashtag only
+CHAT,244,4,0,4,240,0.0,True,excluded
+JOB,4,1,3,4,0,0.75,True,cashtag only
+CARS,3,3,0,3,0,0.0,True,cashtag only
+MAN,3,3,0,3,0,0.0,True,cashtag only
+EAT,2,2,0,2,0,0.0,True,cashtag only
+HE,3,2,0,2,0,0.0,True,cashtag only
+LMAO,2,1,1,2,0,0.5,False,excluded
+WWW,242,2,0,2,240,0.0,True,excluded
+HOPE,1,1,0,1,0,0.0,True,cashtag only
