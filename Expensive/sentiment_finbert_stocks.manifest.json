@@ -1,0 +1,10 @@
+{
+  "model": "ProsusAI/finbert",
+  "model_commit": "4556d13015211d73dccd3fdd39d39232506f3e43",
+  "transformers": "5.17.0",
+  "max_tokens": 512,
+  "preprocessing": "title+\" \"+selftext; strip; [deleted] filtered; v2",
+  "n_scored": 66952,
+  "n_empty": 0,
+  "share_truncated": 0.05082745847771538
+}
